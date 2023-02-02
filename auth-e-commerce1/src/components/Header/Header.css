@@ -21,3 +21,7 @@
     width: 66px;
     border-radius: 50%;
 }
+.sign_out{
+    text-transform:uppercase;
+    color:goldenrod;
+}
